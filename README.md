@@ -2,17 +2,20 @@
 
 <hr style="height: 1px;">
 
-- 🔭 I’m currently working on Full Stack Web Development
+#### 🔭 I’m currently working on:
 
-   <span>
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
-   </span>
-    <span>
+</span>
+
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure"/>
-   </span>
-   <span>
+</span>
+
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
-   </span> 
+</span>
+
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/>
 </span>
