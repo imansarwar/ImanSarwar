@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)
-![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+### Hi there, This is Iman 👋
 
 <hr style="height: 1px;">
 
@@ -11,9 +8,6 @@
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
    </span>
    <span>
-  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
-   </span>
-    <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
    </span>
    <span>
